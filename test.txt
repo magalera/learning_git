@@ -1,3 +1,5 @@
 public interface zodiacSign {
   String readTheHoroscope(); 
+  
+  boolean isGoodHoroscope();
 }
